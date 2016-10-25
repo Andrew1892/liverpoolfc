@@ -45,7 +45,8 @@ fixtures = [
     ['H', 'Middlesbrough', 2.75]
 ]
 
-results = 'WLDWWWWDW'
+#results = 'WLDWWWWDW'
+results = 'WLDWWWWDWWWWWWWWWWW'
 
 alternativeTable = []
 runningTarget=0
